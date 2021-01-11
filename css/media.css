@@ -1,0 +1,137 @@
+@media screen and (max-width: 1200px){
+	.services{
+		font-size: 35px;
+	}
+	.ball__img img{
+		top: 53%;
+	}
+	.footer__items{
+		font-size: 12px;
+	}
+	.footer__phone{
+		font-size: 12px;
+	}
+	.about__menu{
+		display: none;
+	}
+}
+@media screen and (max-width: 994px){
+	.btn{
+		margin-left: 35%;
+	}
+	.services{
+		font-size: 26px;
+	}
+	.balls{
+		display: none;
+	}
+	.reviews__city{
+		display: none;
+	}
+	.reviews__text{
+		padding-top: 30px;
+	}
+	.arrow i{
+		top: 340px;
+	}
+	.footer__items{
+		font-size: 12px;
+	}
+	.footer__phone{
+		font-size: 12px;
+	}
+
+@media screen and (max-width: 768px){
+	.balgaria{
+		font-size: 50px;
+		margin-left: -210px;
+		margin-top: 10px;
+	}
+	.h1{
+		font-size: 30px;
+		margin-left: -140px;
+	}
+	.blocks{
+		margin-bottom: 30px;
+	}
+	.relocation{
+		font-size: 22px;
+	}
+	.btn{
+		margin-left: 30%;
+	}
+	.services {
+   		font-size: 19px;
+	}
+	.ball__img img{
+		top: 54%;
+	}
+	.arrow i{
+		top: 450px;
+	}
+	.circles:first-child{
+		margin-left: 40%;
+	}
+	.form{
+		margin-left: 15%;
+	}
+}
+@media screen and (max-width: 540px){
+	.balgaria{
+		font-size: 30px;
+    	margin-left: -120px;
+	}
+	.h1{
+		font-size: 20px;
+		margin-left: -90px;
+	}
+	.advantages{
+		font-size: 30px;
+	}
+	.blocks{
+		margin-bottom: 30px;
+	}
+	.relocation{
+		font-size: 22px;
+	}
+	.question__text_item{
+		font-size: 14px;
+		margin-left: -35px;
+	}
+	.question__text_pmg{
+		font-size: 15px;
+		margin-left: -35px;
+	}
+	.btn{
+		margin-left: 20%;
+	}
+	.ball__img img{
+		top: 57%;
+	}
+	.reviews__items{
+		padding: 10px 30px 15px 10px;
+	}
+	.reviews__text{
+		padding:60px 10px 10px 10px;
+	}
+	.reviews:before{
+		display: none;
+	}
+	.arrow i{
+		top: 340px;
+	}
+	.free__text{
+		font-size: 16px;
+	}
+	.circles:first-child{
+		margin-left: 43px;
+	}	}
+	.input{
+		padding: 27px 22px 17px 35px;
+		margin-left: 0px;
+	}
+	.act{
+		padding: 17px 15px 17px 10px;
+    	width: 250px;
+	}
+}
